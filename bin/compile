@@ -18,7 +18,7 @@ cd $BUILD_DIR
 
 # Install SWIG
 echo "-----> Fetching and installing SWIG 2"
-curl -L https://github.com/justforyou-br/heroku-buildpack-swig/raw/master/swig.tar.gz -o /tmp/swig.tar.gz
+curl -L https://github.com/we-are-Joinup/heroku-buildpack-swig/raw/master/swig.tar.gz -o /tmp/swig.tar.gz
 
 echo "SWIG downloaded"
 
